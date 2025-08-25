@@ -17,7 +17,7 @@ The very first integration of MCP capacities within Sinequa WebApps is plugin-ba
 
 In the `plugins` repository can be found implementations of such plugins corresponding to various usecases.
 
-First of all, make sure to add the `<sinequa>\bin\ModelContextProtocol.dll` to the dependency of your plugin, and add the `EnterpriseSearchMcpPlugin.cs` file
+First of all, make sure to add the `<sinequa>\bin\ModelContextProtocol.dll` to the dependency of your plugin, and add the `EnterpriseSearchMcpPlugin.cs` [file](plugins/EnterpriseSearchMcpPlugin.cs)
 
 ![Plugin](assets/images/plugin.png)
 
