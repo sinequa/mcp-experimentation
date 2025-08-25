@@ -3,8 +3,8 @@
 Repository bringing together all the MCP-related experiments within the Sinequa platform.
 
 
-> **_Prerequisites:_** 
->
+> [!IMPORTANT]
+> **Prerequisites** 
 > * Sinequa release >= 11.13.0.2044
 > * .NET Core only
 > * **Beta** mode
@@ -50,7 +50,7 @@ If you visit the URL logged when starting inspector you should see the following
 
 ![Plugin](assets/images/mcp_inspector.png)
 
-> [!INFO]
+> [!IMPORTANT]
 > Authentication Support
 > * Bearer Token
 > * OAuth will coming soon
