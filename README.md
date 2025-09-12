@@ -10,7 +10,7 @@ Repository bringing together all the MCP-related experiments within the Sinequa 
 > * **Beta** mode
 > * Standalone WebApps only
 
-# 11.13.0.2044
+# 11.13.0.2057
 The very first integration of MCP capacities within Sinequa WebApps is plugin-based only, i.e. we don’t deliver built-in tools for the moment but only the capacity to add tools by plugin.
 
 # Plugins
