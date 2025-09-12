@@ -5,7 +5,7 @@ Repository bringing together all the MCP-related experiments within the Sinequa 
 
 > [!IMPORTANT]
 > **Prerequisites** 
-> * Sinequa release >= 11.13.0.2044
+> * Sinequa release >= 11.13.0.2057
 > * .NET Core only
 > * **Beta** mode
 > * Standalone WebApps only
