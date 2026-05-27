@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This repository is archived.
+> MCP Servers are now a feature of version 11.14.0.
+
+----
+
 # MCP experimentation
 
 Repository bringing together all the MCP-related experiments within the Sinequa platform.
